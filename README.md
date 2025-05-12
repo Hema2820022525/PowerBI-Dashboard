@@ -15,3 +15,16 @@ The dashboard provides insights into key recruitment metrics such as:
 - Microsoft Excel
 - Basic HR analytics methods
   
+
+## 📄 Attrition Analysis Dashboard
+
+This dashboard focuses on analyzing employee attrition trends using HR data.  
+It includes:
+
+- Attrition rate by gender, age, and department
+- Job satisfaction vs. attrition
+- Education field vs. attrition rate
+- Employee count by age groups
+
+📥 [Click here to view the Attrition Dashboard PDF](HR%20ANALYTICS%20DASHBOARD_ATTRITION.pdf)
+
