@@ -14,6 +14,8 @@ The dashboard provides insights into key recruitment metrics such as:
 - Power BI
 - Microsoft Excel
 - Basic HR analytics methods
+
+  📄 [Click here to view the PDF version of the dashboard](HR%20DASHBOARD.pdf)
   
 
 ## 📄 Attrition Analysis Dashboard
