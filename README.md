@@ -14,3 +14,4 @@ The dashboard provides insights into key recruitment metrics such as:
 - Power BI
 - Microsoft Excel
 - Basic HR analytics methods
+  
